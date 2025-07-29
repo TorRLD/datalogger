@@ -76,7 +76,7 @@ O diagrama abaixo ilustra o fluxo de dados e controle entre os componentes do ha
 
 **Snippet de código**
 
-```
+ ```mermaid
 graph TD
     subgraph "Sensor"
         MPU6050[🌍 IMU MPU6050<br/>Acel/Giro]
